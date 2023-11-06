@@ -13,7 +13,10 @@ from Cryptodome.Hash import SHA256
 import mysql.connector
 import codecs
 import time
-
+from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+from cryptography.hazmat.primitives.padding import PKCS7
+from cryptography.hazmat.backends import default_backend
+import base64
 
 def dbSseQuery(keyword):
     mydb = mysql.connector.connect(
@@ -25,8 +28,16 @@ def dbSseQuery(keyword):
     cursor = mydb.cursor()
     cursor.execute("SELECT sse_keyword_numfiles, sse_keyword_numsearch FROM sse_keywords WHERE sse_keyword = '" + keyword + "' ;")
     result = cursor.fetchall()
+    # cursor.execute("UPDATE sse_keywords SET sse_keyword_numsearch = sse_keyword_numsearch + 1 WHERE sse_keyword = '" + keyword +"';" )
+    # mydb.commit()
     mydb.close()
     return result
+    
+
+def getKey(password):
+	hasher = SHA256.new(password.encode('utf-8'))
+	return hasher.hexdigest()
+
 
 def dbCspQuery(address):
     mydb = mysql.connector.connect(
@@ -42,42 +53,50 @@ def dbCspQuery(address):
     return result
 
 
-def unpad(s):
-        return s[:-ord(s[len(s)-1:])]
+def unpad(plain_text):
+    last_character = plain_text[len(plain_text) - 1:]
+    bytes_to_remove = ord(last_character)
+    return plain_text[:-bytes_to_remove]
 
-def decrypt(enc, key):
-        iv = enc[:AES.block_size]
-        cipher = AES.new(key, AES.MODE_CBC, iv)
-        return unpad(cipher.decrypt(enc[AES.block_size:])).decode('utf-8')
+def decrypt(ciphertext, key):
+    cipher = Cipher(algorithms.AES(key), modes.ECB(), backend=default_backend())
+    decryptor = cipher.decryptor()
+    decodedciphertext = base64.b64decode(ciphertext)
+    padded_data = decryptor.update(decodedciphertext) + decryptor.finalize()
+    unpadder = PKCS7(algorithms.AES.block_size).unpadder()
+    plaintext = unpadder.update(padded_data) + unpadder.finalize()
+    return plaintext
 
 
 def decryptFile(key, filename):
-	chunksize = 64*1024
-	outputFile = filename[11:]
+    chunksize = 64*1024
+    outputFile = filename[3:]
 
-	with open(filename, 'rb') as infile:
-		filesize = int(infile.read(16))
-		IV = infile.read(16)
+    with open(filename, 'rb') as infile:
+        filesize = int(infile.read(16))
+        IV = infile.read(16)
 
-		decryptor= AES.new(key, AES.MODE_CBC, IV)
+        decryptor= AES.new(key, AES.MODE_CBC, IV)
 
-		with open(outputFile, 'wb') as outfile:
-			while True:
-				chunk = infile.read(chunksize)
+        with open(outputFile, 'wb') as outfile:
+            while True:
+                chunk = infile.read(chunksize)
 
-				if len(chunk) == 0:
-					break
+                if len(chunk) == 0:
+                    break
 
-				outfile.write(decryptor.decrypt(chunk))
+                outfile.write(decryptor.decrypt(chunk))
 
-			outfile.truncate(filesize)
+            outfile.truncate(filesize)
 
-def getKey(password):
-	hasher = SHA256.new(password.encode('utf-8'))
-	return hasher.hexdigest()
+
 
 def main():
+    keyFile = open("key.txt", "rb")
+    key = keyFile.read()
     bobWord = input("Hey Bob! what do you want to search for today? : ")
+    
+    startTime = time.time()
     bobWordHash = getKey(bobWord)
     print("Hashed version of your word is : " + bobWordHash)
 
@@ -90,12 +109,13 @@ def main():
     print("You are looking for the hash value : " + csp_address)
     cspQuery = dbCspQuery(csp_address)
     csp_key = cspQuery[0][0]
-    print(csp_key)
-    value = bytes(csp_key, 'utf-8')
-    encodedKey = "CdLpLk5cMND8loqrDtb9zmtGOwQX2Wpg".encode('utf-8')
-    print(str(os.sys.getsizeof(encodedKey)))
-    fileName = decrypt(value, encodedKey)
-    print(fileName)
+    print("AES key is : ",csp_key)
+    #Not working
+    fileName = decrypt(bytes(csp_key), key)
+    print("File name is : ",fileName.decode()[:-1])
+    newFileName = str("ENC" + fileName.decode()[:-1])
+    decryptFile(key, newFileName)
 
+    endTime = time.time()
 if __name__ == "__main__":
      main()

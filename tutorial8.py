@@ -13,7 +13,10 @@ from Cryptodome.Hash import SHA256
 import mysql.connector
 import codecs
 import time
-
+from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
+from cryptography.hazmat.primitives.padding import PKCS7
+from cryptography.hazmat.backends import default_backend
+import base64
 #CdLpLk5cMND8loqrDtb9zmtGOwQX2Wpg
 def encryptFile(key, filename):
 	chunksize = 64*1024
@@ -67,13 +70,14 @@ def pad(plain_text):
     padded_plain_text = plain_text + padding_str
     return padded_plain_text
 
-def encrypt(key,plainText):
-    padedPlainText = pad(plainText)
-    IV = Random.new().read(16)
-    mode = AES.MODE_CBC
-    encrypt = AES.new(key, mode, IV=IV)
-    cipherText = encrypt.encrypt(padedPlainText.encode('utf-8'))
-    return cipherText
+def encrypt(key, plaintext):
+    cipher = Cipher(algorithms.AES(key), modes.ECB(), backend=default_backend())
+    encryptor = cipher.encryptor()
+    padder = PKCS7(algorithms.AES.block_size).padder()
+    padded_data = padder.update(plaintext) + padder.finalize()
+    ciphertext = encryptor.update(padded_data) + encryptor.finalize()
+    encodedciphertext = base64.b64encode(ciphertext)
+    return encodedciphertext
 
 def getKey(password):
 	hasher = SHA256.new(password.encode('utf-8'))
@@ -96,31 +100,44 @@ def dbSseQuery(keyword, numfile, numsearch):
     mydb.close()
 
 def dbCspQuery(address, keyvalue):
-	mydb = mysql.connector.connect(
+    mydb = mysql.connector.connect(
         host="localhost",
         user="tutorial8",
-		password="tutorial8",
-		database="tutorial8"
+        password="tutorial8",
+        database="tutorial8"
     )
-	cursor = mydb.cursor()
-	cursor.execute("INSERT INTO sse_csp_keywords (csp_keywords_address, csp_keyvalue) VALUES (" + "'" + address + "'" + "," + "'" + keyvalue + "'" + ");")
-	mydb.commit()
-	mydb.close()
+    cursor = mydb.cursor()
+    sql = "INSERT INTO sse_csp_keywords (csp_keywords_address, csp_keyvalue) VALUES (%s, %s);"
+    val = (address, keyvalue)
+    cursor.execute(sql, val)
+    mydb.commit()
+    mydb.close()
 
 
 def main():
     listOfClearText = []
     listOfEncryptedText = []
     #random key generator
-    key = ''.join(random.choices(string.ascii_lowercase + string.digits + string.ascii_uppercase, k=32))
+    key = os.urandom(16)
     print("Generated key for the user : ",key)
-    encodedKey = key.encode("utf-8")
+    dirList = os.listdir()
+    if ("key.txt" not in dirList):
+        os.system("touch key.txt")
+        fl = open("key.txt", "wb")
+        fl.write(key)
+        fl.close()
+    else:
+        os.system("rm key.txt")
+        os.system("touch key.txt")
+        fl = open("key.txt", "wb")
+        fl.write(key)
+        fl.close()
     #iterate each file and extract the content
     startTime = time.time()
     for filename in os.listdir():
         txtFileName = os.path.join("", filename)
         if(".txt" in txtFileName):
-            if ("ENC" in txtFileName):
+            if ("ENC" in txtFileName or txtFileName == "key.txt"):
                 continue
             #open the file in read mode
             f = open(txtFileName, "r")
@@ -129,7 +146,7 @@ def main():
             listOfClearText.append(clearText)
 
             #Encrypting files 
-            encryptFile(encodedKey, txtFileName)
+            encryptFile(key, txtFileName)
 		
             #removing the unencrypted txt files
 			
@@ -144,7 +161,7 @@ def main():
             dbSseQuery(sse_keyword,numfile,numsearch)
             Kw = getKey(sse_keyword + str(numsearch))
             address = getKey(Kw + str(numfile))
-            dbCspQuery(address, str(encrypt(encodedKey, txtFileName + str(numfile)))[1:].strip("'"))
+            dbCspQuery(address, encrypt(key, str(txtFileName + str(numfile)).encode()))
 			
             os.system("rm " + txtFileName)
     endTime = time.time()
