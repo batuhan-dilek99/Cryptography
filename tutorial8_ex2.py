@@ -115,7 +115,8 @@ def main():
     print("File name is : ",fileName.decode()[:-1])
     newFileName = str("ENC" + fileName.decode()[:-1])
     decryptFile(key, newFileName)
-
     endTime = time.time()
+
+    print("Database operations and decryption of the file took %.4f seconds" % (endTime-startTime))
 if __name__ == "__main__":
      main()
