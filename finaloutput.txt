@@ -1,0 +1,599 @@
+products/751?BIN'S NON VBV?100?5.15?5.0
+products/1208?AA.com?1?3.0?3.0
+products/484?Onpointcu.comFull AN+RN?13?25.076923076923077?12.0
+products/915?Bin`s no VBV & other?98?6.081632653061225?6.0
+products/1305?FULL INFO SSN+DOB?97?1.0?1.0
+products/660?Americanexpress.com?17?67.94117647058823?50.0
+products/806?Creditkarma.com?63?10.0?10.0
+products/1576?Marriott.com?43?39.604651162790695?8.0
+products/1449?AT&T Mobility LLC (USA) - UNIT BILL?21?15.0?15.0
+products/1186?Hulu.com?16?2.5?1.0
+products/602?Asos.com?3?4.0?5.0
+products/990?Booking.com?4?5.0?5.0
+products/1451?Enel Gas (ITA) - UNIT BILL?32?14.96875?15.0
+products/575?Commbank.com.au online acces?2?80.0?80.0
+products/364?Full Info USA + DL + Employer/Job info?100?3.26?3.0
+products/442?Lowes.com?5?7.0?7.0
+products/1372?AA.com?3?11.333333333333334?10.0
+products/1169?US BANKS  AN/RN , FULL NAME , FULL ADDRESS?29?60.51724137931034?25.0
+products/1511?Email Bases?11?47.27272727272727?30.0
+products/696?Yahoo.com?6?5.0?5.0
+products/896?Credit Card?3?10.0?10.0
+products/1587?DL / ID / PASSPORT UK / GBR?63?11.285714285714286?10.0
+products/1014?Billing info without cvv?1?5.0?5.0
+products/931?Costco.com?18?7.0?7.0
+products/686?Jetblue.com?7?17.428571428571427?4.0
+products/472?Southwest.com?23?48.91304347826087?27.0
+products/831?USA E-MAILS Gmail/Live/Yahoo?19?3.0?3.0
+products/1092?TD.com No Online Access?18?10.0?10.0
+products/1375?Hilton.com?12?30.666666666666668?20.0
+products/457?Hostings/Domain/Webmail/cPanels?10?22.0?20.0
+products/1162?ACCOUNT  SURFSHARK VPN  UNTIL 2023?38?11.052631578947368?10.0
+products/1001?Flyfrontier.com?15?16.666666666666668?4.0
+products/1013?Kohls.com?16?5.25?5.0
+products/1039?Disneyplus.com?100?3.34?3.0
+products/1306?Wellsfargo.com Self-Registered?7?130.0?130.0
+products/717?Target.com?11?3.0?3.0
+products/1287?Key.com No Online Access?44?10.0?10.0
+products/185?Walmart.com + email access?42?4.333333333333333?5.0
+products/354?Background (BG) report lookup service?9?22.666666666666668?23.0
+products/620?Rewards & Points?1?10.0?10.0
+products/527?BASE 1.3M ClubHouse USERS?19?15.0?15.0
+products/1138?Full info USA SSN+DOB+BG?38?2.4210526315789473?3.0
+products/864?Squareup.com?30?12.2?15.0
+products/1213?Creditonebank.com No Online Access?12?10.0?10.0
+products/774?Sephora.com?3?5.666666666666667?5.0
+products/289?CREDIT CARDS?53?9.452830188679245?10.0
+products/243?SSN & DOB lookup service?16?103.375?93.0
+products/1383?Full info USA SSN&DOB?100?1.0?1.0
+products/629?USA FULL INFO SSN+DOB+DL?87?5.0?5.0
+products/322?TAX FORM?18?9.11111111111111?8.0
+products/972?Betting & Casino Worldwide?16?5.625?2.0
+products/1183?Email bases for brute?50?23.6?20.0
+products/516?Southwest.com?20?15.85?2.0
+products/1258?Credit Report (CR) lookup service?4?20.0?20.0
+products/1310?FULL INFO SSN/DOB/DL?100?5.6?5.0
+products/330?Americanexpress.com?10?47.0?50.0
+products/918?Full Info ssn + dob + scanned dl + scanned document+ work?9?32.22222222222222?30.0
+products/1542?Leads - Email Bases - Ready To Spam?2?50.0?50.0
+products/724?US BANKS AC/RN Holders Name?31?125.12903225806451?80.0
+products/242?Full info USA SSN,DOB,CR?4?20.0?20.0
+products/1308?TD.com Self-Registered?6?100.0?100.0
+products/1398?Fidelity.com?14?105.35714285714286?80.0
+products/1239?Prestocard.ca?6?14.166666666666666?10.0
+products/1038?Westernunion.com?5?21.0?20.0
+products/1403?FULL INFO NAME:SSN:DOB:ADRESS:DLnum (exp):Credit Score:Empoyers?25?15.0?15.0
+products/1012?Victoriassecret.com?8?5.0?5.0
+products/1041?IHG.com?3?4.666666666666667?5.0
+products/1061?USAA.com?60?8.266666666666667?8.0
+products/190?Wire Target Leads?100?1000.0?1000.0
+products/534?Form 1040 , 8821 , 668 , 2848?4?15.0?15.0
+products/63?Form W-2+1040?67?10.074626865671641?10.0
+products/1431?Tax forms & Tax Docs?1?5.0?5.0
+products/1195?Alaskaair.com?11?9.818181818181818?9.0
+products/758?Fedex.com?20?3.6?3.0
+products/1510?poshmark.com?4?7.5?10.0
+products/165?Lowes.com?97?7.0?7.0
+products/767?Gmail.com?51?5.0?5.0
+products/1190?Bell.ca?21?15.0?15.0
+products/507?Full info USA ssn/dob?100?1.0?1.0
+products/449?Bank Checks?5?162.0?60.0
+products/492?hsabank.comFull AN/RN+Holder name+Adress+SQ+Tax form+SSN?8?20.0?20.0
+products/838?Full Info SSN/DL/DOB?100?4.9?5.0
+products/653?Wordpress (wp-login.php) panels?4?2.75?2.0
+products/35?Full info USA SSN/DOB/DL?100?10.0?10.0
+products/1440?Custom made US/EU documents?3?103.33333333333333?80.0
+products/350?SSN/DOB lookup service?7?105.71428571428571?60.0
+products/834?Statements?100?6.06?6.0
+products/881?Full info?100?1.0?1.0
+products/62?Tax business form?7?50.0?50.0
+products/587?Nordvpn.com?5?1.0?1.0
+products/46?W 2 - FORMS?100?22.1?20.0
+products/654?Netflix.com?100?5.84?7.0
+products/517?Squareup.com?2?18.5?20.0
+products/658?Apple.com?66?10.0?10.0
+products/1137?Full info USA SSN+DOB+JOB?17?1.0?1.0
+products/778?Usaa.com?1?350.0?350.0
+products/983?Homedepot.com?6?5.0?5.0
+products/500?Westernunion.com?48?17.708333333333332?10.0
+products/21?Full info USA SSN&DOB?100?1.0?1.0
+products/448?Australian banks?3?54.0?75.0
+products/1546?DOCUMENTS - SELFIES/IDS/DRIVER LICENSES/...?6?20.0?20.0
+products/929?Tax Form?100?7.06?7.0
+products/869?Bank Checks?6?133.33333333333334?150.0
+products/938?Choicehotels.com?9?11.222222222222221?10.0
+products/1156?Australian banks?88?49.68181818181818?4.0
+products/59?RDP?92?7.9021739130434785?8.0
+products/976?FULL INFO SSN / DOB / DL + Bank Name (AN / RN)?84?6.0?6.0
+products/1192?Fedex.com?3?15.0?15.0
+products/826?BIN'S NON VBV?60?6.25?5.0
+products/1250?Greendot.com?18?10.0?10.0
+products/317?Google voice?19?7.0?7.0
+products/235?Australian banks?17?257.70588235294116?240.0
+products/42?FULL INFO USA SSN / DOB / CS / CR?100?20.55?20.0
+products/512?Full info USASSN+DOB+DL+MMN?54?5.0?5.0
+products/1004?Macys.com?1?3.0?3.0
+products/759?Bestbuy.com?4?3.5?2.0
+products/487?Full info USASSN+DOB+CR?65?9.0?9.0
+products/501?Bank Checks & Direct Deposits forms?70?34.642857142857146?30.0
+products/880?Delta.com?19?4.947368421052632?5.0
+products/657?Moneygram.com?3?35.0?35.0
+products/632?Discover.com?87?75.51724137931035?70.0
+products/681?Hilton.com?27?4.148148148148148?3.0
+products/180?FULL INFO SSN+DOB?92?1.0?1.0
+products/447?USA Banks Statements?42?7.4523809523809526?7.0
+products/1292?E-Mail Bases USA / WORLD?40?12.35?10.0
+products/1033?Lowes.com?18?5.888888888888889?5.0
+products/715?Squareup.com?4?10.0?10.0
+products/1230?Ihg.com?10?16.9?6.0
+products/1535?Navyfederal.org No Online Access?19?10.0?10.0
+products/156?Westernunion.com?72?21.25?25.0
+products/158?Squareup.com?77?20.0?20.0
+products/1593?Drawing Australia DL / PASSPORT (SCAN)?33?25.0?25.0
+products/1476?Venmo.com?98?5.0?5.0
+products/446?Website adminpanels?7?38.57142857142857?30.0
+products/910?Delta.com?7?1.8571428571428572?2.0
+products/1052?Chase.com NO ONLINE ACCESS?75?10.0?10.0
+products/960?Southwest.com?9?17.11111111111111?6.0
+products/1116?Thebay.com?3?5.0?5.0
+products/1079?Bank Checks?6?100.0?100.0
+products/792?Adidas.com?19?4.842105263157895?3.0
+products/473?Full Info USA + DL+Height/Weight/Eye Color/Hair Color?8?16.75?17.0
+products/1251?Wellsfargo No Online Access?30?10.0?10.0
+products/320?Drawing documents?93?59.30107526881721?50.0
+products/1210?Form W-2 & Other Tax documents?7?10.0?10.0
+products/698?Xfinity.com?2?10.0?10.0
+products/508?Fedex.com?12?16.25?15.0
+products/1351?Vans.com?8?5.375?5.0
+products/1324?Bankofamerica.com No Online Access?17?10.0?10.0
+products/483?Full info USA SSN+DOB?100?1.0?1.0
+products/348?Ebay.com?6?80.0?25.0
+products/1540?Marriott.com?5?3.2?3.0
+products/744?Accorhotels.com?17?2.3529411764705883?1.0
+products/493?Banks of Australia?74?36.7027027027027?3.0
+products/1170?Booking.com?2?5.0?5.0
+products/816?Samsclub.com?1?6.0?6.0
+products/37?Passport?100?10.0?10.0
+products/1211?Kohls.com?5?5.4?5.0
+products/746?Cox connect?12?2.6666666666666665?2.0
+products/1311?FULL INFO SSN/DOB/CS/CR?15?5.466666666666667?5.0
+products/852?Worldremit.com?8?30.625?30.0
+products/1338?FULL INFO SSN/DOB/DL - ISS / EXP?98?8.959183673469388?8.0
+products/634?Hilton.com?68?27.33823529411765?6.0
+products/628?USA BINS AUTO VBV (AUTO-PROCESSING)?40?8.0?8.0
+products/689?Merrickbank.com?17?15.058823529411764?15.0
+products/1295?Coinbase.com?54?5.0?5.0
+products/702?Sephora.com?17?13.823529411764707?10.0
+products/40?FULL INFO USA SSN DOB /BANK NAME /JOB TITLE /EMPLOYER /AC RN?94?5.0?5.0
+products/519?PASSPORT/ID/SSN/DL USA EU?4?9.0?10.0
+products/1327?DL+ SSN card+Employment?100?12.51?12.0
+products/1188?Kroger.com?5?7.6?7.0
+products/34?DL+ SSN card?100?25.0?25.0
+products/1275?PNC.com No Online Access?6?10.0?10.0
+products/825?Coinbase.com?57?5.0?5.0
+products/708?Netflix.com?10?6.8?7.0
+products/782?Fedex.com?22?15.0?15.0
+products/1229?Kroger.com?5?17.2?8.0
+products/372?Textnow.com?51?4.019607843137255?4.0
+products/184?BIN NON VBV Auto-processing?85?5.0?5.0
+products/827?BIN'S NON VBV?100?5.0?5.0
+products/1479?Ihg.com?2?3.0?5.0
+products/939?Macys.com?10?10.7?6.0
+products/619?Various Hotel sites?6?23.833333333333332?22.0
+products/166?Kohls.com?8?6.5?7.0
+products/605?Other Services?5?10.0?10.0
+products/357?Emails accounts?76?5.7894736842105265?5.0
+products/779?Fedex.com?10?13.7?15.0
+products/249?MMN lookup service?22?78.18181818181819?85.0
+products/588?Voip and Sip accounts?1?60.0?60.0
+products/814?Fedex.com?4?5.0?5.0
+products/1379?DL / PASSPORT AUSTRALIA?22?20.454545454545453?20.0
+products/712?Full info SIN+DOB?100?1.0?1.0
+products/155?Full InfoSSN,DOB+DL+Bank info+Employer info?100?5.59?6.0
+products/710?Wellsfargo.com (Self-Registerd)?2?80.0?80.0
+products/736?Full info - Different Countries SSN/IBEN/NIN/PN/DNI?4?7.0?7.0
+products/1046?USA fullz SSN+DOB 1998-2004 DOB?99?3.0?3.0
+products/773?Westernunion.com?17?13.529411764705882?15.0
+products/582?FULL INFO SSN + DOB?100?1.0?1.0
+products/1373?squareup.com?5?15.0?15.0
+products/341?Walmart.com?30?5.7?5.0
+products/993?Ebay.com?43?9.465116279069768?7.0
+products/677?Walmart.com?3?4.333333333333333?3.0
+products/1145?Hilton.com?9?4.555555555555555?3.0
+products/747?Xfinity.com?6?3.0?3.0
+products/1214?Chegg.com?6?10.0?10.0
+products/336?Full info SSN+DOB+Credit report+Background info?100?27.98?30.0
+products/1307?Chime.com Self-Registered?15?100.0?100.0
+products/850?Background Report lookup service?4?12.0?12.0
+products/1249?Giftcards.com?1?10.0?10.0
+products/626?Passport?2?10.0?10.0
+products/1040?Turkishairlines.com?7?6.285714285714286?6.0
+products/32?Vystarcu.org?11?10.0?10.0
+products/800?Orbitz.com?2?10.0?10.0
+products/1429?Bank Checks?5?73.0?75.0
+products/863?Canadian Full info SIN+DOB+Employer name+Occupasion+MonthlyIncome?53?6.0?6.0
+products/1093?Bnc.ca No Online Access?12?10.0?10.0
+products/247?Credit Report (CR) lookup service?22?34.18181818181818?38.0
+products/329?Full info SSN+DOB?100?1.0?1.0
+products/1532?Usaa.com No Online Access?42?10.0?10.0
+products/873?Marriott.com?28?3.107142857142857?2.0
+products/1035?UPS.com?13?5.0?5.0
+products/663?Citi.com?7?178.57142857142858?150.0
+products/129?Full Info+CS+CR+BG?52?22.846153846153847?20.0
+products/961?Hilton.com?16?29.75?14.0
+products/239?Full info USA SSN+DOB+DL?54?5.0?5.0
+products/958?PASSPORT/ID/SSN/DL USA/EU/WORLD?67?14.283582089552239?14.0
+products/1332?Grailed.com?6?5.0?6.0
+products/1274?Shein.com?8?5.0?5.0
+products/1374?Sephora.com?4?10.0?10.0
+products/935?US BANK ACCOUNTS?6?215.0?80.0
+products/1577?CERTIFICATES death , birth , title?12?87.5?100.0
+products/1439?N26 SELFMADE?1?1200.0?1200.0
+products/748?Macys.com?57?5.2631578947368425?5.0
+products/1316?DL USA + SSN FRONT / BACK?3?20.0?20.0
+products/954?Discover.com NO ONLINE ACCESS?17?5.0?5.0
+products/521?Bestbuy.com?5?7.4?7.0
+products/338?Background info - Lookup Services?10?24.0?20.0
+products/1070?Full Info ssn+dob+dl+bank info+credit report+cs?13?15.0?15.0
+products/274?Verizonwireless.com + SQ?3?36.666666666666664?40.0
+products/932?Squareup.com?12?15.0?15.0
+products/556?Squareup.com?3?6.666666666666667?5.0
+products/1277?RDP?7?57.142857142857146?55.0
+products/546?Paypal.com Self-Registered?1?120.0?120.0
+products/1158?Windscribe Pro until 2026 - 2027?2?15.0?15.0
+products/88?Driver's license, passport?60?14.666666666666666?10.0
+products/1355?FasterPay.com?3?9.333333333333334?10.0
+products/866?Payment system USA+WORLD?2?10.0?10.0
+products/839?BINS NON VBV?100?5.14?5.0
+products/1290?Email Base?12?10.0?10.0
+products/355?Credit Score (CS) lookup service?9?18.666666666666668?19.0
+products/780?Nationwide.com?4?7.5?5.0
+products/828?USA BANKS Login:Password only?31?11.096774193548388?12.0
+products/1179?Giftcards.com?6?8.0?7.0
+products/1193?Hulu.com?3?3.0?3.0
+products/739?Full info SSN+DOB+CR+CS+Bank info?95?10.0?10.0
+products/36?Full info USA SSN/DOB/DL - Exp Date?100?15.0?15.0
+products/420?Driver license?23?11.304347826086957?10.0
+products/979?Real Documents Worldwide?2?42.5?60.0
+products/1545?FULL INFO SSN/DOB/DL?51?7.0?7.0
+products/1187?IHG.com?2?101.0?200.0
+products/1073?Costco.ca?31?7.0?7.0
+products/1594?Drawing Spain DL / ID Card (SCAN)?33?25.0?25.0
+products/1575?Goshippo.com?26?6.076923076923077?7.0
+products/1435?Cashapp SELFMADE BTC Enabled?1?500.0?500.0
+products/334?OpenBullet *cfg OB CONFIG'S/Anom/Loli?99?243.73737373737373?250.0
+products/1037?Worldremit.com?7?14.285714285714286?10.0
+products/1364?Partycity.com?6?5.0?5.0
+products/754?USA Bank's AN+RN only?1?37.0?37.0
+products/480?Email account with access?6?2.0?2.0
+products/49?Citizensbank.com?45?10.0?10.0
+products/789?SSN+DOB Lookup service?7?40.0?40.0
+products/1105?COX.com?24?4.833333333333333?3.0
+products/699?Wish.com?1?5.0?5.0
+products/248?Background (BG) Report lookup service?29?22.689655172413794?23.0
+products/236?European banks?30?66.76666666666667?40.0
+products/1346?Westernunion.com?9?25.11111111111111?23.0
+products/1127?Pizzaville.ca?7?4.142857142857143?5.0
+products/1300?Westernunion.com?10?20.0?20.0
+products/1523?DL / ID / PASSPORT / SIN CANADA?29?11.89655172413793?10.0
+products/1066?Coinbase.com (FULL VERIFIED)?1?500.0?500.0
+products/518?Discover.com CC Login:Password?1?15.0?15.0
+products/352?DL lookup service?8?60.0?65.0
+products/847?Paypal.com Self-Refistered?1?20.0?20.0
+products/1028?Bestbuy.ca?80?12.625?15.0
+products/1296?Squareup.com?2?15.0?15.0
+products/1206?AUTO BINS FOR APPLE PAY?66?45.0?45.0
+products/1445?Lowes.com?14?6.285714285714286?7.0
+products/1381?Mypaymentsplus.com?5?13.0?15.0
+products/1113?Airmiles.ca?5?3.4?5.0
+products/1547?SCAMPAGES - BEST PHISHING PAGES + HOSTING AND INSTALLATION + Free?4?50.0?50.0
+products/1053?Walmart.ca?12?6.666666666666667?7.0
+products/843?Coinbase.com log/pass + Holder Info?36?6.305555555555555?7.0
+products/706?Walmart.com?10?2.3?1.0
+products/682?Email account with access?100?3.66?3.0
+products/56?Full info SSN,DOB?66?1.0?1.0
+products/980?Successfully Cashout investment accounts!?9?35.0?35.0
+products/994?FULL INFO USA SSN / DOB / CS / CR?32?9.5625?10.0
+products/1365?Hertz.com?11?9.090909090909092?10.0
+products/495?Banks of New Zealand?19?150.21052631578948?10.0
+products/1173?Samsclub.com?3?6.0?7.0
+products/772?Kohls.com?14?3.357142857142857?3.0
+products/57?Full info  SSN,DOB+DL?100?4.66?5.0
+products/452?Full info + CR + BG + CS?4?12.0?12.0
+products/890?Hilton.com?95?15.8?5.0
+products/797?Facebook.com?4?10.0?10.0
+products/1077?Creditkarma.ca?13?7.0?7.0
+products/1043?Bestbuy.com?4?11.25?15.0
+products/678?Robinhood.com (Self-Regiistered)?1?150.0?150.0
+products/999?Full info USA SSN,DOB,DL?13?5.6923076923076925?6.0
+products/1336?Grailed.com?8?7.375?7.0
+products/511?Bestbuy.com?9?6.111111111111111?7.0
+products/671?BINS NO VBV?100?9.99?8.0
+products/1602?Hertz.com?3?58.333333333333336?40.0
+products/1194?Fido.ca?9?10.555555555555555?10.0
+products/1090?Fasterpay.com?7?10.0?10.0
+products/93?ID USA + SSN CARD Real document?100?25.0?25.0
+products/1397?Coinmama.com?1?10.0?10.0
+products/1123?Homedepot.com?3?3.6666666666666665?3.0
+products/1419?self-registered STRIPE+BA (custom)+EMAIL+GV+COOKIES?48?550.0?550.0
+products/1382?Paygonline.com?4?30.0?30.0
+products/742?UK Fullz DOB+BANK NAME+SORT CODE+AN?15?6.0?6.0
+products/1215?Hotels.com?11?11.363636363636363?10.0
+products/1472?Full info USASSN+DOB+MMN?21?4.0?5.0
+products/1240?Dominos.com?3?5.0?5.0
+products/1384?Clickpay.com?21?37.142857142857146?30.0
+products/445?Facebook.com?15?9.466666666666667?10.0
+products/1333?FULL INFO Name/Addres SSN/DOB/DL num (exp)/Nerdwallet account/Credit?34?15.0?15.0
+products/801?Bestbuy.com?4?17.5?25.0
+products/985?IHG.com?40?12.25?5.0
+products/1516?FlyTAP.com?5?8.4?7.0
+products/1349?Adidas.com?4?5.0?5.0
+products/642?USA BANKS NO ONLINE ACCESS?100?10.05?10.0
+products/1525?Ihg.com?8?5.75?6.0
+products/85?Bank Checks?20?65.0?70.0
+products/1344?Marriot.com?8?10.25?10.0
+products/1143?Full info USA SSN+DOB+CS+BG?76?4.828947368421052?5.0
+products/381?Yahoo.com?48?5.0?5.0
+products/1010?Sears.com?56?5.660714285714286?5.0
+products/545?Airbnb.com Self-Registered?1?200.0?200.0
+products/1109?PASSPORT/ID/SSN/DL AND OTHER USA/EU/WORLD?1?15.0?15.0
+products/1172?Credit Unions No Online Access?91?10.0?10.0
+products/347?Costco.com?11?6.363636363636363?6.0
+products/1112?Credit Cards?32?18.0?18.0
+products/769?Lowes.com?15?3.4?3.0
+products/296?Full Info SSN/DOB + BG + CR + CS?100?3.2?2.0
+products/1416?Etrade.com?13?15.0?10.0
+products/1600?Privacy.com No Online Access?40?5.0?5.0
+products/468?Marriot.com?20?7.15?4.0
+products/377?Chase.com self-registered?2?200.0?200.0
+products/1462?Costco.com?8?6.0?7.0
+products/1075?DL Selfie + SSN?58?20.0?20.0
+products/1558?Klm.com?1?6.0?6.0
+products/987?DL lookup service?9?30.0?30.0
+products/1401?Alaskaair.com?2?18.0?21.0
+products/676?Netflix.com?7?4.714285714285714?5.0
+products/1199?Full info SSN&DOB?100?1.0?1.0
+products/950?Capitalone.com NO ONLINE ACCESS?18?8.0?8.0
+products/1454?AIRFRANCE?2?12.0?12.0
+products/1128?Pizzapizza.ca?16?3.5?3.0
+products/1191?Kohls.com?22?5.0?5.0
+products/1031?Capitalone.com?29?10.0?10.0
+products/997?Southwest.com?33?13.93939393939394?5.0
+products/894?Credit card?10?12.0?12.0
+products/1475?partycity.com + email access?1?8.0?8.0
+products/1591?Drawing United Kingdom DL/Passport?33?25.0?25.0
+products/535?FTP domain, hosting, panel?7?25.714285714285715?15.0
+products/1110?Emirates.com?82?6.402439024390244?5.0
+products/604?Various payment systems?39?9.871794871794872?10.0
+products/283?DL + MVR (weight, height, etc) lookup service?33?164.24242424242425?165.0
+products/304?Paypal.com self-registried?1?25.0?25.0
+products/1425?AU / NZ Bank Accounts?7?5.285714285714286?5.0
+products/1317?DL Selfie + SSN FRONT / BACK?1?600.0?600.0
+products/1536?Usbank.com?7?10.0?10.0
+products/191?Full info (USA) DOB SSN?76?2.8947368421052633?1.0
+products/522?Full infoSSN+DOB+CS?100?6.96?7.0
+products/356?MMN lookup service?5?61.0?45.0
+products/670?Etsy.com?11?2.0?2.0
+products/1377?Southwest.com?10?38.8?7.0
+products/695?Zappos.com?2?9.0?10.0
+products/437?Bank-Check?5?50.0?50.0
+products/835?FULL INFO SSN/DOB/DL?98?4.183673469387755?4.0
+products/1345?FashionNova.com?41?3.0?3.0
+products/823?Twitter.com?1?10.0?10.0
+products/1531?Mygiftcardsupply.com?2?15.0?15.0
+products/245?Credit Score (CS) lookup service?26?20.653846153846153?19.0
+products/181?FULL INFO SSN+DOB+DL?12?5.0?5.0
+products/707?Apple.com?27?10.0?10.0
+products/1504?Poshmark.com?10?4.0?3.0
+products/737?Hilton.com?13?62.69230769230769?7.0
+products/1592?Drawing Canada DL/ID Card/Passport (SCAN)?33?25.0?25.0
+products/1263?Macys.com?22?17.181818181818183?7.0
+products/1056?Credit Score (CS) lookup service?14?9.642857142857142?10.0
+products/123?Alaskaair.com?56?15.714285714285714?11.0
+products/1198?Credit Union?1?20.0?20.0
+products/1254?Bank Statements?12?6.5?7.0
+products/799?Southwest.com?71?21.239436619718308?5.0
+products/1471?FULL INFO SSN/DOB/DL/An/Rn?37?5.0?5.0
+products/441?Full info SSN+DOB+DL?100?11.4?7.0
+products/1042?Walmart.com?13?5.153846153846154?5.0
+products/1586?DL / ID / PASSPORT BRAZILIA?31?15.548387096774194?12.0
+products/502?Worldremit.com?7?10.285714285714286?7.0
+products/1238?Kroger.com?18?20.833333333333332?20.0
+products/1011?Zappos.com?44?5.75?5.0
+products/1285?Samsclub.com?1?5.0?5.0
+products/1236?Uptownaces.eu?5?3.0?3.0
+products/358?EIN lookup service?1?40.0?40.0
+products/1096?PASSPORT/ID/SSN/DL USA/EU/WORLD?13?13.846153846153847?14.0
+products/359?DL + MVR (height, weight, etc) lookup service?42?161.3095238095238?160.0
+products/1262?Mywisely.com?19?24.736842105263158?15.0
+products/1273?Flyfrontier.com?4?3.5?3.0
+products/1256?Nerdwallet.com?3?10.0?10.0
+products/273?FULL INFO SSN+DOB+DL?22?4.045454545454546?4.0
+products/410?Americanexpress.com?10?37.5?35.0
+products/889?Marriott.com?28?12.357142857142858?5.0
+products/1380?Clickpay.com?21?34.523809523809526?30.0
+products/213?Bank Statements?45?7.0?7.0
+products/586?Walmart.com?8?5.5?5.0
+products/845?Hotels WORLD?4?40.25?21.0
+products/661?FULL INFO (SSN, DOB, EMPLOYER, OCUPATION, BG REPORT)?4?7.0?7.0
+products/240?Full info USA SSN,DOB,DL,Employer?62?6.0?6.0
+products/683?DL/ID/Passport?11?23.636363636363637?20.0
+products/73?DL USA Front and back side.Real document?78?20.0?20.0
+products/623?USA BINS RESET VBV BY ZIP CODE?100?8.0?8.0
+products/727?Citizensbank.com?3?11.666666666666666?10.0
+products/471?Westernunion.com?26?21.53846153846154?25.0
+products/1216?Choicehotels.com?3?2.6666666666666665?2.0
+products/655?Walmart.com?59?7.033898305084746?7.0
+products/103?FULL INFO USA SSN / DOB / DL / CS / CR?100?26.55?25.0
+products/1301?Bestbuy.com?2?10.0?15.0
+products/1002?Form W-2+1040?2?20.0?20.0
+products/1203?Full info USA SSN+DOB?95?1.0210526315789474?1.0
+products/640?Wellsfargo.com?1?250.0?250.0
+products/962?Marriott.com?4?4.5?5.0
+products/1180?Carters.com?5?6.8?8.0
+products/669?Wayfair.com?6?5.0?6.0
+products/192?Target.com + email access?3?5.333333333333333?5.0
+products/362?Business Full Info?83?25.662650602409638?30.0
+products/1078?DL USA Front side only.Real document?33?10.0?10.0
+products/528?SEARCH CRYPTO IN LOGS 1000 crypto queries?10?200.0?200.0
+products/490?Full info USASSN+DOB+MMN?100?2.0?2.0
+products/1205?AUTO BINS FOR SAMSUNG PAY?17?40.0?40.0
+products/630?Americanexpress.com?29?47.41379310344828?40.0
+products/1120?AU info?100?1.0?1.0
+products/963?Bank Statements AUSTRALIA?14?5.0?5.0
+products/238?Full info USA?100?1.0?1.0
+products/1335?Full Info SSN+DOB+DL + BG + CR + CS?1?7.0?7.0
+products/743?Vonage.com?2?6.0?7.0
+products/1323?FULL INFO  SSN/DOB/DL/BG/CS/CR?6?15.0?15.0
+products/633?Target.com?16?7.75?8.0
+products/636?Email Addresses 99% Email,Email-Domain?97?1.0?1.0
+products/1370?Coinmama.com?12?13.75?5.0
+products/392?Hilton.com?15?42.666666666666664?7.0
+products/916?FULL INFO SSN+DOB+DL+Job?42?7.0?7.0
+products/888?Lufthansa.com?70?5.0?5.0
+products/1000?Cibc.com NO ONLINE ACCESS?3?10.0?10.0
+products/701?Officedepot.com?13?3.4615384615384617?3.0
+products/1006?Gap.com?9?6.444444444444445?7.0
+products/991?Hotels.com?4?11.25?10.0
+products/639?FULL INFO SSN+DOB?100?1.0?1.0
+products/1134?US BANKS AN/RN Holder Name?2?61.0?74.0
+products/1257?Nike.com?6?6.5?7.0
+products/1060?Alaskaair.com?18?41.333333333333336?18.0
+products/241?Full info USA SSN,DOB,MMN?8?7.0?7.0
+products/244?DL lookup service?39?80.12820512820512?90.0
+products/1095?Fasterpay.com?34?10.0?10.0
+products/777?SSN & DOB Lookup service?9?142.44444444444446?145.0
+products/1571?Fanduel.com?8?5.875?5.0
+products/841?FULL INFO SSN/DOB/DL (exp)/CS/Employers?7?5.0?5.0
+products/526?BASE 21M ParkMobile Users?15?10.0?10.0
+products/1563?USA SHOPING SITES?93?4.376344086021505?5.0
+products/1058?Australian Rewards?5?26.4?24.0
+products/1473?DL Selfie + SSN FRONT / BACK?14?20.928571428571427?20.0
+products/895?Credit card?69?13.246376811594203?17.0
+products/1488?Ticketmaster.com(Email Access)?4?10.0?10.0
+products/1458?Sprucemoney.com Self-Registered?17?130.0?80.0
+products/467?Target.com?20?6.0?6.0
+products/554?USA Banks login:password?100?12.31?11.0
+products/793?Bestbuy.com?29?24.310344827586206?25.0
+products/974?Americanexpress.com?10?88.5?100.0
+products/913?Fidelity.com?1?20.0?20.0
+products/906?Delta.com?9?3.5555555555555554?4.0
+products/1009?Carters.com?20?6.35?5.0
+products/1417?SummitRacing.com?1?5.0?5.0
+products/1265?Barclaycardus.com No Online Access?10?10.0?10.0
+products/543?Full info USACS+CR+DOB+SSN+DL+BG?3?9.666666666666666?10.0
+products/1455?USA PASSPORT?11?60.0?60.0
+products/1288?Jcpenney.com?21?6.0476190476190474?7.0
+products/159?Samsclub.com?32?8.03125?7.0
+products/982?Aircanada.com?1?3.0?3.0
+products/470?Nordvpn.com?1?40.0?40.0
+products/491?Full info USASSN+DOB+DL?100?4.97?5.0
+products/137?Business Full Info?7?184.28571428571428?30.0
+products/662?Lenovo.com?13?5.153846153846154?5.0
+products/923?6pm.com?2?5.0?5.0
+products/234?Worldremit.com?100?20.3?10.0
+products/1209?Aeropostale.com?4?7.0?7.0
+products/996?Full info Different Countries SIN/CURP/SSN/IBEN/NIN/PN/DNI/?25?1.0?1.0
+products/61?Bank Statements?100?7.0?7.0
+products/203?Citizensbank.com + AN/RN?26?76.46153846153847?81.0
+products/1508?Form W-2+1040 SSN, ID, EIN. BANK INFO?15?12.666666666666666?13.0
+products/1091?Vans.com?7?10.0?10.0
+products/862?Canadian Full info SIN+DOB?100?2.0?2.0
+products/1565?Vegascasinoonline.eu?47?5.0?5.0
+products/202?Chase.com + AN/RN?29?33.86206896551724?35.0
+products/514?Other world Bank Accounts?5?84.0?70.0
+products/323?Statements?52?13.711538461538462?15.0
+products/366?Full Info USA + DL (with expiration date)?100?7.2?8.0
+products/1572?Draftkings.com?8?5.375?5.0
+products/1299?Giftcards.com?8?4.25?5.0
+products/1289?Etrade.com?16?35.0?10.0
+products/370?Full info USA + DL + Bank info?99?5.0606060606060606?6.0
+products/1527?IHG.com?1?3.0?3.0
+products/817?TD.com (Self-Registered)?2?80.0?80.0
+products/644?Target.com?19?8.157894736842104?7.0
+products/1601?DL/ID+SELFIE+SSN front/back State ILLINOIS?2?6.0?6.0
+products/302?BIG BASE of domains?10?40.0?40.0
+products/1115?Albert.com?19?45.0?45.0
+products/1466?Poshmark.com?33?3.9696969696969697?3.0
+products/1261?Huntington.com No Online Access?10?10.0?10.0
+products/1234?TD.com US No Online Access?14?10.0?10.0
+products/679?Citi.com?13?173.07692307692307?150.0
+products/674?Textfree.us?7?4.0?4.0
+products/849?Full info USA SSN,DOB,DL?100?5.0?5.0
+products/552?PASSPORT/DL/ID/ and other Document WORLD MIX?2?25.0?35.0
+products/335?SELF REGISTERED BANK ACCOUNTS+EMAIL+GV?22?242.6818181818182?225.0
+products/1460?Moneygram.com?1?15.0?15.0
+products/1424?Moneygram.com?5?8.0?5.0
+products/893?Booking.com?69?5.072463768115942?5.0
+products/510?Full info USA  SSN+DOB+DL+Bank AСN RTN Num+Employment?99?6.0?6.0
+products/709?Discover.com?30?84.66666666666667?80.0
+products/684?Bank checks?19?37.63157894736842?30.0
+products/1573?Ulta.com?29?6.379310344827586?7.0
+products/1055?Avia miles Worldwide?55?8.763636363636364?3.0
+products/337?DL/PASSPORT/ID/SSN - REAL DOC'S?18?47.166666666666664?18.0
+products/621?Pizzahut.com?3?5.0?5.0
+products/453?Email bases for brute?10?219.0?250.0
+products/1157?Pornhub Premium.?17?3.1176470588235294?3.0
+products/926?PASSPORT / SSN / DL / ID CARD?36?11.222222222222221?10.0
+products/735?Wwe.com?5?5.0?5.0
+products/353?Credit Report (CR) lookup service?6?29.0?38.0
+products/1293?USA BANKS NO ONLINE ACCESS?48?10.0?10.0
+products/91?Full info USA  SSN+DOB?98?1.0?1.0
+products/1328?Document rendering templates?30?11.0?11.0
+products/897?BIN'S for Online Services?51?5.372549019607843?5.0
+products/914?Psd Template DOCUMENTS For Photoshop?12?41.25?40.0
+products/1200?Zulily.com?4?5.0?5.0
+products/664?Full info SSN+DOB?100?1.0?1.0
+products/703?Westernunion.com?42?26.30952380952381?30.0
+products/1072?Expedia.ca?4?10.0?10.0
+products/1588?DL / ID / PASSPORT FRANCE?20?15.65?15.0
+products/667?Full info SSN+DOB+DL?52?5.0?5.0
+products/1139?Staples.com?16?5.1875?5.0
+products/1201?Choicehotels.com?2?1.0?1.0
+products/1270?Fingerhut.com?5?2.6?2.0
+products/608?Various Shopping sites?1?5.0?5.0
+products/625?Kohls.com?10?6.6?7.0
+products/494?Banks of Spain?20?50.1?15.0
+products/1207?Officedepot.com?2?6.0?7.0
+products/345?Apple.com?22?6.818181818181818?5.0
+products/887?Bank statements?32?10.0?10.0
+products/635?Ebay.com?3?4.333333333333333?2.0
+products/178?USAA.com?89?10.0?10.0
+products/361?Full info USA?100?1.0?1.0
+products/1125?Capitalone.com No Online Access?100?8.45?10.0
+products/333?Full info SSN+DOB+CS+Credit report?76?18.18421052631579?20.0
+products/1102?FULL INFO SSN+DOB+DL+Job?99?7.0?7.0
+products/1368?FULL INFO SSN/DOB?100?1.0?1.0
+products/942?Costco.com?15?6.866666666666666?7.0
+products/1027?Dating site?86?6.8604651162790695?7.0
+products/1564?Shipstation.com?5?5.4?5.0
+products/1390?DL / ID CARD / PASSPORT / UTILITY BILL & OTHER WORLD?85?14.717647058823529?15.0
+products/749?Full info USA SSN,DOB, DL(exp), CS, Employers?2?8.0?8.0
+products/432?FULL INFO SSN+DOB+DL?95?4.063157894736842?4.0
+products/665?Full info SSN+DOB?100?1.0?1.0
+products/19?DL USA Front side only.Real document?100?10.0?10.0
+products/1341?USA HOTELS?4?101.25?165.0
+products/1492?US DL Selfie + SSN FRONT / BACK?100?24.0?24.0
+products/861?VCC GIFT/PREPAID/VISA/MASTERCARD?100?4.51?5.0
+products/509?Full info USA ssn/dob + MMN?31?7.0?7.0
+products/917?Full Info ssn+dob+bank info+credit report+cs?44?14.295454545454545?15.0
+products/1489?Goshippo.com?23?3.6956521739130435?5.0
+products/1585?DL / ID / PASSPORT SWEDEN?23?10.0?10.0
+products/397?Squareup.com?18?15.0?15.0
+products/791?Tesla.com?6?4.0?4.0
+products/656?Westernunion.com?17?22.941176470588236?25.0
+products/332?OPEN VPN CONFIG FILE?8?3.0?3.0
+products/1312?FULL INFO SSN/DOB/DL/BANK An/Rn/Occupation/Employer?25?10.0?10.0
+products/125?Southwest.com?50?18.82?10.0
+products/837?Email valid base?58?50.43103448275862?35.0
+products/1420?self-registered PP+BA (Wells/PNC/TD/Citi/Truist)+EMAIL+GV+COOKIES?100?270.0?270.0
+products/1259?Drawing Documents?54?36.48148148148148?25.0
+products/790?Full Info Other Countries SIN/IBEN/NIN/PN/DNI?100?6.0?6.0
+products/1272?Qvc.com?21?6.190476190476191?7.0
+products/1298?Hertz.com?18?13.333333333333334?10.0
+products/666?Full info USASSN+DOB+DL?100?5.0?5.0
+products/878?Netflix.com?2?5.0?5.0
+products/771?Choicehotels.com?10?2.4?2.0
+products/624?USA BINS RESET VBV BY SSN?31?8.0?8.0
+products/830?VCC?95?4.515789473684211?4.0
+products/368?Full info USA + MMN?19?7.0?7.0
